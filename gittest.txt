@@ -1,4 +1,13 @@
-- Git
+GitHub:
+
+    Installation:
+
+    Konfiguration:
+
+    - User:jbig3
+    - PW: dflgsld667&$sdag
+
+Git
 
     Installation:
 
@@ -10,11 +19,12 @@
         - https://help.github.com/articles/generating-ssh-keys
         - GitBash: ssh-keygen -t rsa
         - FileName: leer lassen
-        - Password eingeben: 123456
+        - Password eingeben: 123456 (nicht das github-Passwort)
         - SSH-Key auf github hinterlegen:
+            - c:/Dokumente und Einstellungen/Gregory/.ssh/id_rsa.pub (öffentlicher Schlüssel)
             - https://github.com/settings/ssh
 
-- PHPStorm
+PHPStorm
 
     Konfiguration:
 
@@ -26,4 +36,22 @@
     - VCS | Enable Version Control Integration
 
         - Select: Git
+
+    - GitHub:
+
+        - Enable Git : IDE Settings | Plugins | Git Integration + GitHub
+        - GitHub Account: IDE Settings | GitHub
+
+    - Projekt clonen:
+
+        - VCS | Checkout from VersionControl | GitHub
+        - git://github.com/jbig3/lTest.git
+        - Projektverzeichnis und Name
+
+    - Projekt pushen:
+
+        - VCS | Import into VersionControl | Share project on GitHub
+
+
+
 
