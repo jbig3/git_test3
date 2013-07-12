@@ -1,0 +1,29 @@
+- Git
+
+    Installation:
+
+    - Download:
+
+    Konfiguration:
+
+    - SSH Key:
+        - https://help.github.com/articles/generating-ssh-keys
+        - GitBash: ssh-keygen -t rsa
+        - FileName: leer lassen
+        - Password eingeben: 123456
+        - SSH-Key auf github hinterlegen:
+            - https://github.com/settings/ssh
+
+- PHPStorm
+
+    Konfiguration:
+
+    - PhpStorm | Preferences | Version Control | Git
+
+        - C:\Programme\Git\bin\git.exe
+        - SSH - BuiltIn
+
+    - VCS | Enable Version Control Integration
+
+        - Select: Git
+
