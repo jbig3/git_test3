@@ -4,8 +4,11 @@ GitHub:
 
     Konfiguration:
 
+    Das sollte dann aber wohl besser verschlüsselt!!
+    oder besser garnicht hier - aufs Handy verschieben!
+
     - User:jbig3
-    - PW: dflgsld667&$sdag
+    - PW:
 
 Git
 
